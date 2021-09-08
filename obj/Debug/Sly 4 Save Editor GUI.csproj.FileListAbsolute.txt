@@ -1,0 +1,18 @@
+C:\Users\Brandon St-Gelais\source\repos\Sly 4 Save Editor GUI\Sly 4 Save Editor GUI\bin\Debug\Sly 4 Save Editor GUI.exe.config
+C:\Users\Brandon St-Gelais\source\repos\Sly 4 Save Editor GUI\Sly 4 Save Editor GUI\bin\Debug\Sly 4 Save Editor GUI.exe
+C:\Users\Brandon St-Gelais\source\repos\Sly 4 Save Editor GUI\Sly 4 Save Editor GUI\bin\Debug\Sly 4 Save Editor GUI.pdb
+E:\Games\PS3\Sly Cooper Thieves in Time\Sly 4 Save Editor GUI\Sly 4 Save Editor GUI.exe.config
+E:\Games\PS3\Sly Cooper Thieves in Time\Sly 4 Save Editor GUI\Sly 4 Save Editor GUI.exe
+E:\Games\PS3\Sly Cooper Thieves in Time\Sly 4 Save Editor GUI\Sly 4 Save Editor GUI.pdb
+C:\Users\Brandon St-Gelais\source\repos\Sly 4 Save Editor GUI\Sly 4 Save Editor GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Brandon St-Gelais\source\repos\Sly 4 Save Editor GUI\Sly 4 Save Editor GUI\obj\Debug\App.g.cs
+C:\Users\Brandon St-Gelais\source\repos\Sly 4 Save Editor GUI\Sly 4 Save Editor GUI\obj\Debug\Sly 4 Save Editor GUI_MarkupCompile.cache
+C:\Users\Brandon St-Gelais\source\repos\Sly 4 Save Editor GUI\Sly 4 Save Editor GUI\obj\Debug\Sly 4 Save Editor GUI_MarkupCompile.lref
+C:\Users\Brandon St-Gelais\source\repos\Sly 4 Save Editor GUI\Sly 4 Save Editor GUI\obj\Debug\MainWindow.baml
+C:\Users\Brandon St-Gelais\source\repos\Sly 4 Save Editor GUI\Sly 4 Save Editor GUI\obj\Debug\Sly 4 Save Editor GUI.g.resources
+C:\Users\Brandon St-Gelais\source\repos\Sly 4 Save Editor GUI\Sly 4 Save Editor GUI\obj\Debug\Sly_4_Save_Editor_GUI.Properties.Resources.resources
+C:\Users\Brandon St-Gelais\source\repos\Sly 4 Save Editor GUI\Sly 4 Save Editor GUI\obj\Debug\Sly 4 Save Editor GUI.csproj.GenerateResource.cache
+C:\Users\Brandon St-Gelais\source\repos\Sly 4 Save Editor GUI\Sly 4 Save Editor GUI\obj\Debug\Sly 4 Save Editor GUI.csproj.CoreCompileInputs.cache
+C:\Users\Brandon St-Gelais\source\repos\Sly 4 Save Editor GUI\Sly 4 Save Editor GUI\obj\Debug\Sly 4 Save Editor GUI.exe
+C:\Users\Brandon St-Gelais\source\repos\Sly 4 Save Editor GUI\Sly 4 Save Editor GUI\obj\Debug\Sly 4 Save Editor GUI.pdb
+C:\Users\Brandon St-Gelais\source\repos\Sly 4 Save Editor GUI\Sly 4 Save Editor GUI\obj\Debug\Sly 4 Save Editor GUI.csprojAssemblyReference.cache
