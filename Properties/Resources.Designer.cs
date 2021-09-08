@@ -95,5 +95,25 @@ namespace Sly_4_Save_Editor_GUI.Properties {
                 return ResourceManager.GetStream("StartupSound", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap wp3013282 {
+            get {
+                object obj = ResourceManager.GetObject("wp3013282", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap z_only {
+            get {
+                object obj = ResourceManager.GetObject("z_only", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

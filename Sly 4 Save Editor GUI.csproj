@@ -96,22 +96,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\BassSelection.wav" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ErrorSelection.wav" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\z only.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\wp3013282.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\StartupSound.wav" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ExitSound.wav" />
+    <None Include="Resources\z_only.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

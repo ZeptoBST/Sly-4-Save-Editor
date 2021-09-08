@@ -15,4 +15,3 @@ C:\Users\Brandon St-Gelais\source\repos\Sly 4 Save Editor GUI\Sly 4 Save Editor 
 C:\Users\Brandon St-Gelais\source\repos\Sly 4 Save Editor GUI\Sly 4 Save Editor GUI\obj\Debug\Sly 4 Save Editor GUI.csproj.CoreCompileInputs.cache
 C:\Users\Brandon St-Gelais\source\repos\Sly 4 Save Editor GUI\Sly 4 Save Editor GUI\obj\Debug\Sly 4 Save Editor GUI.exe
 C:\Users\Brandon St-Gelais\source\repos\Sly 4 Save Editor GUI\Sly 4 Save Editor GUI\obj\Debug\Sly 4 Save Editor GUI.pdb
-C:\Users\Brandon St-Gelais\source\repos\Sly 4 Save Editor GUI\Sly 4 Save Editor GUI\obj\Debug\Sly 4 Save Editor GUI.csprojAssemblyReference.cache

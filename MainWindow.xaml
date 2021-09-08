@@ -7,12 +7,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800" Foreground="Black" ResizeMode="NoResize">
     <Window.Resources>
-        <BitmapImage x:Key="thebackground" CreateOptions="IgnoreImageCache" CacheOption="OnLoad" UriSource="C:\Users\Brandon St-Gelais\source\repos\Sly 4 Save Editor GUI\Sly 4 Save Editor GUI\Resources\wp3013282.png"/>
-        <BitmapImage x:Key="zeptobstlogo" CreateOptions="IgnoreImageCache" CacheOption="OnLoad" UriSource="C:\Users\Brandon St-Gelais\source\repos\Sly 4 Save Editor GUI\Sly 4 Save Editor GUI\Resources\z only.png"/>
     </Window.Resources>
     <Grid x:Name="theBack" Width="793.6" MaxWidth="793.6" MaxHeight="420">
         <Grid.Background>
-            <ImageBrush ImageSource="{DynamicResource thebackground}"/>
+            <ImageBrush ImageSource="pack://siteoforigin:,,,/Resources/wp3013282.png"/>
         </Grid.Background>
         <Grid.RowDefinitions>
             <RowDefinition Height="4*"/>
@@ -33,7 +31,7 @@
         <TextBlock HorizontalAlignment="Left" Margin="366,255,0,0" Grid.Row="1" TextWrapping="Wrap" Text="FT/Rug Rats" VerticalAlignment="Top" Foreground="White"/>
         <TextBlock HorizontalAlignment="Left" Margin="630,200,0,0" Grid.Row="1" TextWrapping="Wrap" Text="FT/All Rolled Up!" VerticalAlignment="Top" Foreground="White"/>
         <TextBlock x:Name="statusBox" HorizontalAlignment="Left" Margin="10,314,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="White"/>
-        <Image HorizontalAlignment="Left" Height="24" Margin="760,304,0,0" Grid.Row="1" VerticalAlignment="Top" Width="24" Source="{DynamicResource zeptobstlogo}"/>
+        <Image HorizontalAlignment="Left" Height="24" Margin="760,304,0,0" Grid.Row="1" VerticalAlignment="Top" Width="24" Source="pack://siteoforigin:,,,/Resources/z_only.png"/>
 
     </Grid>
 </Window>
